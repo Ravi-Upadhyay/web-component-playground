@@ -1,0 +1,29 @@
+{
+  "name": "litbasicexample",
+  "version": "1.0.0",
+  "description": "A basic example, To experiment with event handling of HTML components with Lit. Like Inputs",
+  "main": "htmlInputEventHandling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ravi-Upadhyay/web-component-playground.git"
+  },
+  "keywords": [
+    "Basic",
+    "Example",
+    "Lit",
+    "Event",
+    "Handling"
+  ],
+  "author": "Ravi Upadhyay (raviupadhyay.bkn@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravi-Upadhyay/web-component-playground/issues"
+  },
+  "homepage": "https://github.com/Ravi-Upadhyay/web-component-playground#readme",
+  "dependencies": {
+    "lit": "^3.1.2"
+  }
+}
